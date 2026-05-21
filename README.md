@@ -2,9 +2,9 @@
 
 ## Branding Kit
 Brand Colors:
-- #0F172A
-- #FFFFFF
-- #38BDF8
+- #E1DFE3
+- #7B3424
+- #ACA393
 
 ## Files Uploaded
 - Branding Guide
