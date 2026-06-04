@@ -52,7 +52,7 @@ Welcome to my IT Skills Portfolio repository. This project showcases a collectio
 *Reflection on Design:* For this promotional banner, I focused on creating a clean, high-impact layout that immediately draws the eye to the core message. By balancing whitespace with bold typography, the design establishes a clear visual hierarchy that feels both modern and professional.
 
 ### 👥 Social Media Promotional Post
-![Promotional Post](Visuals/Promotional Post.png)
+![Promotional Post](Visuals/PromotionalPost.png)
 *Reflection on Design:* This social media graphic was designed with high contrast and vibrant elements to capture attention in a fast-paced scrolling environment. I ensured the layout remained uncluttered so that the call-to-action is unmistakable and easily digestible for the audience.
 
 ## 💼 Branding Kit
