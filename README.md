@@ -44,7 +44,7 @@ Brand Colors:
 <h2>Water Pollution Infographic</h2>
 
 <img src="Docs/Activity Infographic.pdf"
-     alt="Water Pollution Infographic"
+     alt="Activity Infographic"
      width="600">
 
 <p>
