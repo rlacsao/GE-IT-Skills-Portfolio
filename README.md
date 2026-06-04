@@ -54,9 +54,12 @@ Welcome to my IT Skills Portfolio repository. This project showcases a collectio
 ### 👥 Social Media Promotional Post
 <h2>Promotional Post</h2>
 
-<img src="Visuals/Promotional-Post.png" alt="Promotional Post" width="600">
+<picture>
+  <source srcset="Visuals/Promotional%20Post.png" type="image/png">
+  <img src="Visuals/Promotional%20Post.png" alt="Promotional Post" width="600" loading="lazy">
+</picture>
 
-*Reflection on Design:* This social media graphic was designed with high contrast and vibrant elements to capture attention in a fast-paced scrolling environment. I ensured the layout remained uncluttered so that the call-to-action is unmistakable and easily digestible for the audience.
+[cite_start]*Reflection on Design:* This social media graphic was designed with high contrast and vibrant elements to capture attention in a fast-paced scrolling environment. I ensured the layout remained uncluttered so that the call-to-action is unmistakable and easily digestible for the audience.
 
 
 ## 💼 Branding Kit
