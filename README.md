@@ -40,3 +40,15 @@ Brand Colors:
 
 
 ### 💖 “Committed to excellence in every detail.”
+
+<h2>Water Pollution Infographic</h2>
+
+<img src="Docs/Activity Infographic.pdf"
+     alt="Water Pollution Infographic"
+     width="600">
+
+<p>
+I used shades of blue and contrasting orange accents to highlight key statistics about water pollution.
+The infographic follows a top-to-bottom flow to make the information easy to understand.
+This project improved my ability to present complex data in a visually engaging format.
+</p>
