@@ -55,6 +55,7 @@ Welcome to my IT Skills Portfolio repository. This project showcases a collectio
 <img src="Visuals/Promotional Post .png"
      alt="Promotional Post"
      width="600">
+
 *Reflection on Design:* This social media graphic was designed with high contrast and vibrant elements to capture attention in a fast-paced scrolling environment. I ensured the layout remained uncluttered so that the call-to-action is unmistakable and easily digestible for the audience.
 
 ## 💼 Branding Kit
