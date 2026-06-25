@@ -58,11 +58,10 @@ Welcome to my IT Skills Portfolio repository. This project showcases a collectio
 
 ###  Design Principles Application
 * **Activity Submission:** [C.R.A.P Principle Activity](Branding-Kit/C.R.A.P%20Principle%20Activity.pdf)
-<img width="3000" height="1688" alt="C R A P Principle Activity_page-0003" src="https://github.com/user-attachments/assets/6edfb0e5-0646-4868-bda0-25cd58fe4668" />
-<img width="3000" height="1688" alt="C R A P Principle Activity_page-0002" src="https://github.com/user-attachments/assets/2765c417-0c8d-46d2-a890-d237f35af4f8" />
-<img width="3000" height="1688" alt="C R A P Principle Activity_page-0001" src="https://github.com/user-attachments/assets/76dcafd1-8a53-4fb5-9320-57a36a21ae8f" />
-<img width="3000" height="1688" alt="C R A P Principle Activity_page-0004" src="https://github.com/user-attachments/assets/adb0656d-a5f5-4e7f-ab5f-56c33d5378b8" />
-
+<img width="3000" height="1688" alt="C R A P Principle Activity_page-0001" src="https://github.com/user-attachments/assets/f2dc3db8-98b3-47de-b728-bdc416538c7a" />
+<img width="3000" height="1688" alt="C R A P Principle Activity_page-0002" src="https://github.com/user-attachments/assets/8e9833d2-47d0-4604-aa93-220cd8426bad" />
+<img width="3000" height="1688" alt="C R A P Principle Activity_page-0003" src="https://github.com/user-attachments/assets/6ee54064-d0e6-4a5c-b960-0e9aab465378" />
+<img width="3000" height="1688" alt="C R A P Principle Activity_page-0004" src="https://github.com/user-attachments/assets/e61c234b-bb3d-4dec-96b5-2fa73535d0f1" />
 *Reflection on Design:* This project directly applies the foundational pillars of design: Contrast, Repetition, Alignment, and Proximity (C.R.A.P.). By consciously structuring the document layout around these rules and cross-referencing our design parameters in Screenshot 2026-06-04 at 12.18.52 PM.pdf, I was able to dramatically improve both data readability and overall visual harmony.
 
 ##  Documents & Media
