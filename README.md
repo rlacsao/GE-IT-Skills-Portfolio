@@ -97,7 +97,7 @@ Format: Output in clean Markdown with exactly three actionable, time-stamped ope
 
 #### 3. Visual Branding Asset
 * **Engine Used:** Midjourney v6 / DALL-E 3
-* **Visual Prompt:** "A flat minimalist vector logo of a stylized sea wave intertwined with a traditional outrigger boat (bangka) and a clean shield crest. Solid emerald green and ocean blue tones, isolated on a clean white background, modern corporate civic branding --no photorealism, gradients, or complex shadows"
+<img width="1408" height="768" alt="Gemini_Generated_Image_bygj8sbygj8sbygj" src="https://github.com/user-attachments/assets/b2e600e9-6b94-4adc-850c-6fbdc9a140da" />
 
 
 ###  Literature Verification Log
@@ -133,12 +133,10 @@ The raw multi-municipal database arrived with significant integrity issues. The 
 
 #### 2. Localized Trend Line Charting
 *(Embedded High-Contrast Data Visualizations engineered via Seaborn/Matplotlib)*
+<img width="1408" height="768" alt="Gemini_Generated_Image_fp0n8ofp0n8ofp0n" src="https://github.com/user-attachments/assets/b59ea5f1-e432-428d-b6b0-f1cee1853ef9" />
 
-##### Chart A: Yearly Aggregate Waste Tonnage vs. Active Landfill Capacity Thresholds
-[Line Graph: 2021-2026 Metro Davao Waste Trajectory vs. Structural Capacity Ceiling]
+<img width="1408" height="768" alt="Gemini_Generated_Image_3ex1y73ex1y73ex1" src="https://github.com/user-attachments/assets/8c28ada5-2e39-4f05-875a-fa959a776a0b" />
 
-##### Chart B: Percentage Breakdown of Unmanaged Recyclables by District (2025 Audit)
-[Horizontal Component Bar Chart: Plastic vs. Organic Overload across Urbanized Davao Zones]
 
 #### 3. Human Analytical Narrative (The 'Why' Factor)
 "A data extraction of the charts reveals an alarming, compounding trend line: Metro Davao's primary solid waste reception facilities experienced an unprecedented **23% acceleration in metric tonnage** between late 2023 and early 2026. While the automated system summary attributes this surge strictly to standard population growth, a localized human assessment reveals a critical underlying catalyst—the aggressive post-pandemic expansion of commercial food-delivery ecosystems and single-use packaging footprints in high-density urban zones like Buhangin and Talomo. 
