@@ -72,7 +72,6 @@ Welcome to my IT Skills Portfolio repository. This project showcases a collectio
 
 *Reflection on Design:* This project directly applies the foundational pillars of design: Contrast, Repetition, Alignment, and Proximity (C.R.A.P.). By consciously structuring the document layout around these rules and cross-referencing our design parameters in Screenshot 2026-06-04 at 12.18.52 PM.pdf, I was able to dramatically improve both data readability and overall visual harmony.
 
-
 ##  Documents & Media
 
 ###  Activity Infographic
@@ -86,7 +85,10 @@ Welcome to my IT Skills Portfolio repository. This project showcases a collectio
 
 *Reflection on Design:* These planning documents laid the technical and structural groundwork for my multimedia assignments. The focus here was on clean, modular text formatting to ensure that production scripts and website wireframe concepts were highly organized before moving into the asset creation phase.
 
-### ⚓ The Samal Eco-Tourism Resilience & Visitor Management System
+
+###  AI Explorer
+
+###  The Samal Eco-Tourism Resilience & Visitor Management System
 
 #### 1. System Prompt Template (V3 – Final Optimized)
 "Act as a Senior Eco-Tourism Solutions Architect and Emergency Communications Officer for the Island Garden City of Samal (IGACOS) Tourism Office. Your objective is to draft a 250-word crowd-control and advisory dispatch for local resort operators, boat captains, and security units during peak-season weather disruptions.
