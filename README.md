@@ -49,13 +49,20 @@ Welcome to my IT Skills Portfolio repository. This project showcases a collectio
 
 ###  Logo & Identity Assets
 * **Logo Design:** [Business Tax Accounting Logo Template](Branding-Kit/Business%20Tax%20Accounting%20Logo%20Template.pdf)
-* **Color Strategy:** [Color Palette Specifications](Branding-Kit/Color%20palette.pdf) & [HEX CODES Document](Branding-Kit/HEX%20CODES.pdf)
+<img width="3125" height="3125" alt="Business Tax Accounting Logo Template_page-0001" src="https://github.com/user-attachments/assets/1c70e90b-d609-4fee-ad4d-6eb0432e019f" />
+
+* **Color Strategy:** [Color Palette Specifications](Branding-Kit/Color%20palette.pdf) & [HEX CODES Document](Branding-Kit/HEX%20CODES.pdf) <img width="1275" height="1650" alt="Color palette _page-0001" src="https://github.com/user-attachments/assets/1ffcefbb-6307-4015-90a2-762609e6cd47" />
+
 
 *Reflection on Design:* The objective of this branding kit was to build a trustworthy and authoritative corporate identity for an accounting firm. I utilized a professional color palette anchored by stable tones, paired with crisp geometric typography to convey reliability, precision, and financial expertise.
 
 ###  Design Principles Application
 * **Activity Submission:** [C.R.A.P Principle Activity](Branding-Kit/C.R.A.P%20Principle%20Activity.pdf)
-* **Reference Asset:** [Screenshot 2026-06-04 at 12.18.52 PM.pdf](<Screenshot 2026-06-04 at 12.18.52 PM.pdf>)
+  <img width="3000" height="1688" alt="C R A P Principle Activity_page-0004" src="https://github.com/user-attachments/assets/0fc68f79-453e-4f27-ade1-71cfb36d96cf" />
+<img width="3000" height="1688" alt="C R A P Principle Activity_page-0003" src="https://github.com/user-attachments/assets/be6a10ce-f556-41c6-9277-b353c60c67a0" />
+<img width="3000" height="1688" alt="C R A P Principle Activity_page-0002" src="https://github.com/user-attachments/assets/44187813-8f17-4877-a2e1-857a669ac130" />
+<img width="3000" height="1688" alt="C R A P Principle Activity_page-0001" src="https://github.com/user-attachments/assets/90054571-6821-4b93-8252-3feda5589dd8" />
+
 
 *Reflection on Design:* This project directly applies the foundational pillars of design: Contrast, Repetition, Alignment, and Proximity (C.R.A.P.). By consciously structuring the document layout around these rules and cross-referencing our design parameters in Screenshot 2026-06-04 at 12.18.52 PM.pdf, I was able to dramatically improve both data readability and overall visual harmony.
 
@@ -63,6 +70,7 @@ Welcome to my IT Skills Portfolio repository. This project showcases a collectio
 
 ###  Activity Infographic
 * **View Document:** [Activity Infographic](Docs/Activity%20Infographic.pdf)
+<img width="1250" height="3125" alt="Activity Infographic _page-0001" src="https://github.com/user-attachments/assets/7f0f58c9-9892-4688-bcf8-1a34a95da254" />
 
 *Reflection on Design:* This infographic transforms complex information into an engaging, easily scannable visual narrative. I strategically used custom icons and segmented data blocks to guide the reader's eye naturally from one key data point to the next.
 
