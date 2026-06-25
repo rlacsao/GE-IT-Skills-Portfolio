@@ -73,8 +73,8 @@ Welcome to my IT Skills Portfolio repository. This project showcases a collectio
 *Reflection on Design:* This infographic transforms complex information into an engaging, easily scannable visual narrative. I strategically used custom icons and segmented data blocks to guide the reader's eye naturally from one key data point to the next.
 
 ###  Web & Video Planning
-* **Video Production Workflow:** [Video Activity Notes](Media/Video%20Activity.docx)
-* **Website Structure Blueprint:** [Website Activity Structure](Media/Website%20Activity.docx)
+* **Video Production Workflow:** [Video Activity Notes](Media/Video%20Activity.docx) (https://drive.google.com/file/d/1cdM-tF5wWWPMBnL5LvAuqS4qAE7hLmtN/view?usp=share_link)
+* **Website Structure Blueprint:** [Website Activity Structure](Media/Website%20Activity.docx)**Presentation:** [Click here to view](https://canva.link/pwaqtzu64hjzdgb)
 
 *Reflection on Design:* These planning documents laid the technical and structural groundwork for my multimedia assignments. The focus here was on clean, modular text formatting to ensure that production scripts and website wireframe concepts were highly organized before moving into the asset creation phase.
 
